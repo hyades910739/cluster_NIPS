@@ -1,0 +1,11 @@
+importFrom(magrittr,"%>%")
+importFrom(cluster,silhouette)
+importFrom(mvtnorm,dmvnorm)
+export(EM)
+export(purity)
+export(WADP)
+export(silhouette)
+exportClasses(EM)
+S3method(print,EM)
+
+

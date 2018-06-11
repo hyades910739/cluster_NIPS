@@ -1,0 +1,12 @@
+Package: Ruby
+Type: Package
+Title: Implement of EM for Gaussian Mixture Model
+Version: 1.2
+Date: 2018-06-11
+Author: Hyades Lai
+Maintainer: Hyades Lai <hyades910739@gmail.com>
+Description: This package implement EM algorithm for Mixture Model, and some criteria for cluster methods.
+Imports: magrittr,cluster,mvtnorm
+License: whatever.
+NeedsCompilation: no
+Packaged: 2018-06-11 06:27:52 UTC; hyades
